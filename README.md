@@ -4,7 +4,7 @@
 This analysis focuses on building a filterable table using JavaScript and placing it into an HTML file for easy viewing. We cover customizing the webpage using Bootstrap and equipping the table with functional filters for user interaction. We begin with an introduction to JavaScript and its syntax, followed by working with variables and arrays. Dana learns about the basics of JavaScript and the importance of organizing the code structure before creating JavaScript functions. The data concludes with an overview of JavaScript objects and how to interact with them.
 
 ## Results:
-There is a description of how to perform a search, with images. (4 pt)
+### At first glance from opening the page you are greeted with a header, displayed images, article titles, and a descriptive paragraph about UFO's.
 
 ## Summary:
 The summary addresses one drawback of this webpage (2 pt)
