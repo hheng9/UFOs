@@ -10,7 +10,7 @@ This analysis focuses on building a filterable table using JavaScript and placin
 ### You will notice a dataset displaying various information on UFO sightings. There are column listed as date, city, state, country, shape, duration, and comments to help better identify the information populated in rows.
 ![UFO2](https://user-images.githubusercontent.com/118647523/222353840-44498773-6cad-4f90-a889-d6910c4ba79b.png)
 
-### There is the capability of a specific search function that can filter the data to a specific detail. You can enter the necessary search criteria to locate the data for easier and clearer viewing. 
+### There is the capability of a specific search function that can filter the data to a narrow down the details as needed. You can enter the necessary search criteria to locate the data for easier and cleaner viewing. 
 ![UFO3](https://user-images.githubusercontent.com/118647523/222354660-641e270e-1121-4a31-8917-0dd9da238e5c.png)
 
 ## Summary:
