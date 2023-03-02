@@ -14,17 +14,6 @@ This analysis focuses on building a filterable table using JavaScript and placin
 ![UFO3](https://user-images.githubusercontent.com/118647523/222354660-641e270e-1121-4a31-8917-0dd9da238e5c.png)
 
 ## Summary:
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
-
-
-Deliverable 2: A written report on the UFO analysis (README.md) (20 points)
-Structure, Organization, and Formatting (8 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple paragraphs. (2 pt)
-Each paragraph has a heading. (2 pt)
-There are subheadings to break up text. (2 pt)
-Images are formatted and displayed where appropriate. (2 pt)
-Analysis (12 points)
-The written analysis has the following:
+  * It would be more beneficial to add additional functions or capabilities for the search function to filter with either lowercases or uppercase letters selected as most of the data is in lowercase and the search is case sensitive. 
+  * A keyword search bar could be created for the comments section seeing how lights is referred to many times in the desciptions.
+  * Maybe an additional time columns could be added to better track occurences during the time of day according to the dates.
