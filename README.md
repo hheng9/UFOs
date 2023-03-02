@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview of the analysis:
-The purpose is well defined (2 pt)
+This analysis focuses on building a filterable table using JavaScript and placing it into an HTML file for easy viewing. We cover customizing the webpage using Bootstrap and equipping the table with several functional filters for user interaction. We begin with an introduction to JavaScript and its syntax, followed by working with variables and arrays. Dana learns about the basics of JavaScript and the importance of organizing the code structure before creating JavaScript functions. The data concludes with an overview of JavaScript objects and how to interact with them.
 
 ## Results:
 There is a description of how to perform a search, with images. (4 pt)
