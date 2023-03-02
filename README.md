@@ -15,5 +15,5 @@ This analysis focuses on building a filterable table using JavaScript and placin
 
 ## Summary:
   * It would be more beneficial to add additional functions or capabilities for the search function to filter with either lowercases or uppercase letters selected as most of the data is in lowercase and the search is case sensitive. 
-  * A keyword search bar could be created for the comments section seeing how lights is referred to many times in the desciptions.
+  * A keyword search bar could be created for the comments section seeing how lights is referred to many times in the descriptions.
   * Maybe an additional time columns could be added to better track occurences during the time of day according to the dates.
